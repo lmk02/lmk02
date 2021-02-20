@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk02)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=lmk02&color=blue)
+
+[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmk02&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmk02&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lmk02/lmk02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
